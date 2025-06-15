@@ -1,6 +1,8 @@
 # lm2
 Fitting Bidimensional Regression Models Use lm2 (BiDimRegression) With (In) R Software
 
+https://www.youtube.com/watch?v=ROivk36gqSI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
